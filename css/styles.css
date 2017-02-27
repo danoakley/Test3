@@ -7,7 +7,6 @@ h1 {
   color: Green;
   padding: 20px;
   width: 80%;
-  float: right;
-  background-color: black;
+  background-color: red;
   text-align: center;
 }
