@@ -4,9 +4,13 @@ body {
 }
 
 h1 {
-  color: white;
+  color: purple;
   padding: 20px;
   width: 80%;
   background-color: red;
   text-align: center;
+}
+
+h2 {
+  color: blue;
 }
